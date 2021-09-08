@@ -1,4 +1,4 @@
-# banks-algorithm
+# bankers-algorithm
 
 Implementation of the Banker's Algorithm in C
 
